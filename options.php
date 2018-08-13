@@ -312,4 +312,3 @@ function optionsframework_options() {
 
 	return $options;
 }
-// end
